@@ -1,0 +1,20 @@
+{
+  "codUnico" : 1,
+  "nombre" : "app1i",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 952.1711244132318,
+  "fechaCreacion" : {
+    "year" : 2013,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 67,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 8
+  }
+}

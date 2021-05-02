@@ -1,0 +1,20 @@
+{
+  "codUnico" : 19,
+  "nombre" : "app19t",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 308.374543558917,
+  "fechaCreacion" : {
+    "year" : 2010,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 115,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 4,
+    "dayOfMonth" : 25
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codUnico" : 25,
+  "nombre" : "app25g",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 611.3379195635257,
+  "fechaCreacion" : {
+    "year" : 2016,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 187,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 7,
+    "dayOfMonth" : 5
+  }
+}

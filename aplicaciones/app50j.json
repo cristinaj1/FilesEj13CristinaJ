@@ -1,0 +1,20 @@
+{
+  "codUnico" : 50,
+  "nombre" : "app50j",
+  "descripcion" : "Youtube",
+  "tamanioKb" : 859.194088658155,
+  "fechaCreacion" : {
+    "year" : 2011,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 88,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 29
+  }
+}

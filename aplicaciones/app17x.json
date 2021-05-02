@@ -1,0 +1,20 @@
+{
+  "codUnico" : 17,
+  "nombre" : "app17x",
+  "descripcion" : "Recetario",
+  "tamanioKb" : 861.2707034771204,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 87,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 28
+  }
+}

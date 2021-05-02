@@ -1,0 +1,20 @@
+{
+  "codUnico" : 36,
+  "nombre" : "app36h",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 158.30577169208289,
+  "fechaCreacion" : {
+    "year" : 2013,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 247,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 4
+  }
+}

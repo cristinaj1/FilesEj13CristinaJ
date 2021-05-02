@@ -1,0 +1,20 @@
+{
+  "codUnico" : 31,
+  "nombre" : "app31d",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 651.3659787957006,
+  "fechaCreacion" : {
+    "year" : 2013,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 263,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 20
+  }
+}

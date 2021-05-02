@@ -1,0 +1,20 @@
+{
+  "codUnico" : 6,
+  "nombre" : "app6q",
+  "descripcion" : "Classroom",
+  "tamanioKb" : 949.8515963638017,
+  "fechaCreacion" : {
+    "year" : 2020,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 66,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "monthValue" : 3,
+    "dayOfMonth" : 6
+  }
+}

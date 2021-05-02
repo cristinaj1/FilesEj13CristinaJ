@@ -1,0 +1,20 @@
+{
+  "codUnico" : 29,
+  "nombre" : "app29k",
+  "descripcion" : "Meet",
+  "tamanioKb" : 893.1363203121832,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 117,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 4,
+    "dayOfMonth" : 27
+  }
+}

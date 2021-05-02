@@ -1,0 +1,20 @@
+{
+  "codUnico" : 45,
+  "nombre" : "app45p",
+  "descripcion" : "Youtube",
+  "tamanioKb" : 875.9499455613404,
+  "fechaCreacion" : {
+    "year" : 2011,
+    "month" : "FEBRUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 51,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 2,
+    "dayOfMonth" : 20
+  }
+}

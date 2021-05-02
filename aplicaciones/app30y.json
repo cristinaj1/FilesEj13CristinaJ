@@ -1,0 +1,20 @@
+{
+  "codUnico" : 30,
+  "nombre" : "app30y",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 663.1413887103325,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 252,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 9
+  }
+}

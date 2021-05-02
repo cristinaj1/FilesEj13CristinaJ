@@ -1,0 +1,20 @@
+{
+  "codUnico" : 14,
+  "nombre" : "app14l",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 746.1304820281405,
+  "fechaCreacion" : {
+    "year" : 2016,
+    "month" : "DECEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 339,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "monthValue" : 12,
+    "dayOfMonth" : 4
+  }
+}

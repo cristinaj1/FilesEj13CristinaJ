@@ -1,0 +1,8 @@
+app\App.class
+app\ServicioFicheroJSON.class
+app\PruebaEj12.class
+app\Programa.class
+app\ServicioFicheroXML.class
+app\AdaptadorLocalDate.class
+app\CatalogoAplicaciones.class
+app\ServicioFicheroTSV.class

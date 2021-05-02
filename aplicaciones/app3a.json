@@ -1,0 +1,20 @@
+{
+  "codUnico" : 3,
+  "nombre" : "app3a",
+  "descripcion" : "Meet",
+  "tamanioKb" : 611.7925613501193,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "MAY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 140,
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "monthValue" : 5,
+    "dayOfMonth" : 20
+  }
+}

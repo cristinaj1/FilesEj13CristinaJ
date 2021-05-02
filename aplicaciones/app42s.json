@@ -1,0 +1,20 @@
+{
+  "codUnico" : 42,
+  "nombre" : "app42s",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 627.5653699508916,
+  "fechaCreacion" : {
+    "year" : 2016,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 16,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "monthValue" : 1,
+    "dayOfMonth" : 16
+  }
+}

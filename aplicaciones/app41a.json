@@ -1,0 +1,20 @@
+{
+  "codUnico" : 41,
+  "nombre" : "app41a",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 428.92482475977874,
+  "fechaCreacion" : {
+    "year" : 2012,
+    "month" : "JULY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 192,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "monthValue" : 7,
+    "dayOfMonth" : 10
+  }
+}

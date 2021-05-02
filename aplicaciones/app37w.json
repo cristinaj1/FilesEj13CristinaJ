@@ -1,0 +1,20 @@
+{
+  "codUnico" : 37,
+  "nombre" : "app37w",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 199.3521254597016,
+  "fechaCreacion" : {
+    "year" : 2014,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 1,
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 1
+  }
+}

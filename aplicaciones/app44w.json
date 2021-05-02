@@ -1,0 +1,20 @@
+{
+  "codUnico" : 44,
+  "nombre" : "app44w",
+  "descripcion" : "Meet",
+  "tamanioKb" : 902.0566266301336,
+  "fechaCreacion" : {
+    "year" : 2018,
+    "month" : "APRIL",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 104,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 4,
+    "dayOfMonth" : 14
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codUnico" : 4,
+  "nombre" : "app4y",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 415.41669031396725,
+  "fechaCreacion" : {
+    "year" : 2015,
+    "month" : "MARCH",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 88,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 3,
+    "dayOfMonth" : 29
+  }
+}

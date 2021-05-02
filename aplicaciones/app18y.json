@@ -1,0 +1,20 @@
+{
+  "codUnico" : 18,
+  "nombre" : "app18y",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 531.5318761526189,
+  "fechaCreacion" : {
+    "year" : 2011,
+    "month" : "JANUARY",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 14,
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "monthValue" : 1,
+    "dayOfMonth" : 14
+  }
+}

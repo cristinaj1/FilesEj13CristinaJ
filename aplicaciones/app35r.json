@@ -1,0 +1,20 @@
+{
+  "codUnico" : 35,
+  "nombre" : "app35r",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 609.1469856817354,
+  "fechaCreacion" : {
+    "year" : 2017,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 224,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 12
+  }
+}

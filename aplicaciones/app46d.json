@@ -1,0 +1,20 @@
+{
+  "codUnico" : 46,
+  "nombre" : "app46d",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 331.6352250540925,
+  "fechaCreacion" : {
+    "year" : 2017,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 260,
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 17
+  }
+}

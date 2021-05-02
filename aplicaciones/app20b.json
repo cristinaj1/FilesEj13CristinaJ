@@ -1,0 +1,20 @@
+{
+  "codUnico" : 20,
+  "nombre" : "app20b",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 805.736858140028,
+  "fechaCreacion" : {
+    "year" : 2017,
+    "month" : "SEPTEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 248,
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "monthValue" : 9,
+    "dayOfMonth" : 5
+  }
+}

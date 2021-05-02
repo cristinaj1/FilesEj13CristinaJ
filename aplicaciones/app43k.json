@@ -1,0 +1,20 @@
+{
+  "codUnico" : 43,
+  "nombre" : "app43k",
+  "descripcion" : "Youtube",
+  "tamanioKb" : 216.64567799564372,
+  "fechaCreacion" : {
+    "year" : 2010,
+    "month" : "AUGUST",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 217,
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "monthValue" : 8,
+    "dayOfMonth" : 5
+  }
+}

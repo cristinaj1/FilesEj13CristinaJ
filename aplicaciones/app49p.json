@@ -1,0 +1,20 @@
+{
+  "codUnico" : 49,
+  "nombre" : "app49p",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 434.5762045478795,
+  "fechaCreacion" : {
+    "year" : 2019,
+    "month" : "NOVEMBER",
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "era" : "CE",
+    "dayOfYear" : 327,
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "monthValue" : 11,
+    "dayOfMonth" : 23
+  }
+}
