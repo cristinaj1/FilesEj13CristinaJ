@@ -51,12 +51,12 @@ public class PruebaEj13 {
         for (Map.Entry<String, LocalDate> listaMap : listaUsandoMap.entrySet()) {
             System.out.println(listaMap.getKey() + " " + listaMap.getValue());
         }
-
+        
     }
 
     //Crea un listado a partir de los ficheros que haya en la carpeta.
     public static void listaAPartirDeDirectorio(String ruta) {
-
+        
         File archivo = new File(ruta);
         if (archivo.exists()) {
             File[] ficheros = archivo.listFiles();
@@ -70,23 +70,23 @@ public class PruebaEj13 {
 
     //Muestra una app la cual se pide por teclado y hace todo lo que especifica el ejercicio(borra,lista un directorio) menos el stream
     public static void mostrarAppMetidoPorTeclado() {
-
+        
         Scanner teclado = new Scanner(System.in);
         String intro;
         boolean repetir = true;
         ServicioFicheroJSON generarJson = new ServicioFicheroJSON();
-
+        
         ArrayList<App> listaApps = generarJson.leerConjuntoJSON("./appsjson/aplicaciones.json");
         listaAPartirDeDirectorio("./aplicaciones");
         System.out.println("------------Seleccione algún archivo (sin .json)-----------");
         intro = teclado.nextLine();
-
+        
         do {
-
+            
             for (int i = 0; i < listaApps.size(); i++) {
-
+                
                 if (listaApps.get(i).getNombre().matches(intro)) {
-
+                    
                     App aplic = generarJson.leerJsonIndividual("./aplicaciones/".concat(intro).concat(".json"));
                     System.out.println(aplic.toString());
                     System.out.println("---------El objeto ha sido eliminado correctamente--------");
@@ -98,7 +98,7 @@ public class PruebaEj13 {
                 }
             }
             if (repetir) {
-
+                
                 System.out.println("-------Ninguno de los archivos se llama así, introduce otro nombre.-------");
                 intro = teclado.nextLine();
             }
@@ -107,12 +107,13 @@ public class PruebaEj13 {
 
     //Método main en el cual se ejecuta todo el programa
     public static void main(String[] args) {
-
+        
         mostrarAppMetidoPorTeclado();
-
+        
         ServicioFicheroJSON generarJson = new ServicioFicheroJSON();
         ArrayList<App> listaAplicaciones = generarJson.leerConjuntoJSON("./appsjson/aplicaciones.json");
+        listaAplicaciones.stream().sorted((a1, a2) -> a1.getNombre().compareTo(a2.getNombre())).forEach(System.out::println);
         listaMap(listaAplicaciones);
-
+        
     }
 }
