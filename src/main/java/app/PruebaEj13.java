@@ -99,7 +99,7 @@ public class PruebaEj13 {
             }
             if (repetir) {
 
-                System.out.println("-------Ninguno de los archivos se llama así, introduca otro nombre.-------");
+                System.out.println("-------Ninguno de los archivos se llama así, introduce otro nombre.-------");
                 intro = teclado.nextLine();
             }
         } while (repetir);
