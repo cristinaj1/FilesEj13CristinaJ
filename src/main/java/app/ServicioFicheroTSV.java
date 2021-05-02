@@ -17,6 +17,7 @@ import javax.xml.bind.JAXBException;
  */
 public class ServicioFicheroTSV {
     
+    //Ayuda a generar un fichero TSV a partir de una lista, para ello también tenemos que especificar la ruta
     public void generarFicheroDesdeLista(ArrayList<App> lista, String idFichero) {
         
         try ( BufferedWriter flujo = new BufferedWriter(new FileWriter(idFichero))){

@@ -1,20 +1,7 @@
 {
   "codUnico" : 27,
   "nombre" : "app27u",
-  "descripcion" : "Recetario",
-  "tamanioKb" : 451.88936462595876,
-  "fechaCreacion" : {
-    "year" : 2021,
-    "month" : "OCTOBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 304,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 10,
-    "dayOfMonth" : 31
-  }
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 984.0779094359111,
+  "fechaCreacion" : "28/07/2014"
 }

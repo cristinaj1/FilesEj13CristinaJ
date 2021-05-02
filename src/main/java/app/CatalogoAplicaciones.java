@@ -31,6 +31,7 @@ public class CatalogoAplicaciones {
 
     private String descripcion;
 
+    //getters y setters
     public ArrayList<App> getListaMuebles() {
         return listaAplicaciones;
     }

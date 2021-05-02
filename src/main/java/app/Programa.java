@@ -18,7 +18,7 @@ import javax.xml.bind.JAXBException;
  */
 public class Programa {
 
-    //Crea directorios que nos servirán cuando queramos cambiar de rutas
+    //Crea directorios que nos servirán cuando queramos crear archivos(contiene try(){}catch{})
     private static void creaDirectorio(String nombre) {
 
         Path gestionDeDirectorios = Paths.get(nombre);

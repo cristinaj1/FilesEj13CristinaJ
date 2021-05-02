@@ -5,6 +5,11 @@
  */
 package app;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.databind.annotation.JsonSerialize;
+import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
+import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Objects;
@@ -29,16 +34,25 @@ public class App {
     private String nombre;
     private String descripcion;
     private double tamanioKb;
+    
+    //Para que salga la fecha correctamente en el xml(para que no salga la etiqueta de fecha vacía)
     @XmlJavaTypeAdapter(value = AdaptadorLocalDate.class)
+
+    //Para dar formato a la fecha en el JSON(Si no, el 13 no se puede hacer corretamente)
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy")
+    @JsonDeserialize(using = LocalDateDeserializer.class)
+    @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate fechaCreacion;
 
     private static Random random = new Random();
     private static int contadorApps = 1;
 
+    //Constructor sin paremetrizar, cuenta en su interior únicamente con un contador de apps.
     public App() {
         contadorApps++;
     }
 
+    //Constructor parametrizado(cuenta con un contador).
     public App(int codUnico, String nombre, String descripcion, double tamanioKb, LocalDate fecha) {
         this.codUnico = codUnico;
         this.nombre = nombre;
@@ -106,7 +120,7 @@ public class App {
         return texto;
     }
 
-    //Crea una fecha aleatoria y me devuelve una(Con formato LocalDate)
+    //Crea una fecha aleatoria y me la devuelve(Con formato LocalDate)
     private static LocalDate fechaAleatoria() {
         int mes = random.nextInt(12 - 1 + 1) + 1;
         int dia;
@@ -173,6 +187,7 @@ public class App {
         return nombre + "\t" + descripcion + "\t" + tamanioKb + "\t" + fechaCreacion;
     }
 
+    //Equals y hashCode
     @Override
     public int hashCode() {
         int hash = 3;

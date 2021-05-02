@@ -1,20 +1,7 @@
 {
   "codUnico" : 2,
   "nombre" : "app2p",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 575.6514053921476,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 312,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 8
-  }
+  "descripcion" : "HBO España",
+  "tamanioKb" : 917.7073794787967,
+  "fechaCreacion" : "12/02/2011"
 }

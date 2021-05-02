@@ -16,7 +16,9 @@ import javax.xml.bind.annotation.adapters.XmlAdapter;
  *
  * @author cristina
  */
-public class AdaptadorLocalDate extends XmlAdapter <String, LocalDate> {
+public class AdaptadorLocalDate extends XmlAdapter<String, LocalDate> {
+    
+    //Estos métodos ayudan a darle formato a la fecha para que aparezca correctamente en el xml(para que no salga vacío)
 
     public LocalDate unmarshal(String v) throws Exception {
         return LocalDate.parse(v);

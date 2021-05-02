@@ -1,20 +1,7 @@
 {
   "codUnico" : 26,
   "nombre" : "app26p",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 894.0334176484974,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 150,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true,
-    "monthValue" : 5,
-    "dayOfMonth" : 29
-  }
+  "descripcion" : "Meet",
+  "tamanioKb" : 405.14781809372874,
+  "fechaCreacion" : "07/11/2014"
 }

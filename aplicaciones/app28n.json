@@ -1,20 +1,7 @@
 {
   "codUnico" : 28,
   "nombre" : "app28n",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 969.5377958747121,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "OCTOBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 293,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true,
-    "monthValue" : 10,
-    "dayOfMonth" : 19
-  }
+  "descripcion" : "Netflix",
+  "tamanioKb" : 636.591784826977,
+  "fechaCreacion" : "02/05/2020"
 }

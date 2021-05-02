@@ -1,951 +1,301 @@
 [ {
   "codUnico" : 1,
-  "nombre" : "app1i",
-  "descripcion" : "Amazon Prime Video",
-  "tamanioKb" : 952.1711244132318,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "MARCH",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 67,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 3,
-    "dayOfMonth" : 8
-  }
+  "nombre" : "app1t",
+  "descripcion" : "Youtube",
+  "tamanioKb" : 181.04521899803785,
+  "fechaCreacion" : "22/10/2017"
 }, {
   "codUnico" : 2,
-  "nombre" : "app2p",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 575.6514053921476,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 312,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 8
-  }
+  "nombre" : "app2d",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 165.85155042445035,
+  "fechaCreacion" : "13/09/2021"
 }, {
   "codUnico" : 3,
-  "nombre" : "app3a",
-  "descripcion" : "Meet",
-  "tamanioKb" : 611.7925613501193,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 140,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "monthValue" : 5,
-    "dayOfMonth" : 20
-  }
+  "nombre" : "app3t",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 344.1322235639467,
+  "fechaCreacion" : "28/11/2012"
 }, {
   "codUnico" : 4,
-  "nombre" : "app4y",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 415.41669031396725,
-  "fechaCreacion" : {
-    "year" : 2015,
-    "month" : "MARCH",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 88,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 3,
-    "dayOfMonth" : 29
-  }
+  "nombre" : "app4e",
+  "descripcion" : "Youtube",
+  "tamanioKb" : 474.13866631581897,
+  "fechaCreacion" : "08/06/2012"
 }, {
   "codUnico" : 5,
-  "nombre" : "app5m",
-  "descripcion" : "Classroom",
-  "tamanioKb" : 275.77584672970704,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 305,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 1
-  }
+  "nombre" : "app5t",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 773.1182406070992,
+  "fechaCreacion" : "20/05/2017"
 }, {
   "codUnico" : 6,
-  "nombre" : "app6q",
-  "descripcion" : "Classroom",
-  "tamanioKb" : 949.8515963638017,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "MARCH",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 66,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : true,
-    "monthValue" : 3,
-    "dayOfMonth" : 6
-  }
+  "nombre" : "app6n",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 563.0854774601495,
+  "fechaCreacion" : "14/04/2019"
 }, {
   "codUnico" : 7,
-  "nombre" : "app7w",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 649.9122296974986,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "DECEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 359,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 12,
-    "dayOfMonth" : 25
-  }
+  "nombre" : "app7i",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 943.1279236943803,
+  "fechaCreacion" : "30/01/2016"
 }, {
   "codUnico" : 8,
-  "nombre" : "app8p",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 394.57720470580614,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "JUNE",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 161,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true,
-    "monthValue" : 6,
-    "dayOfMonth" : 9
-  }
+  "nombre" : "app8w",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 1021.2653028306569,
+  "fechaCreacion" : "10/06/2016"
 }, {
   "codUnico" : 9,
-  "nombre" : "app9x",
-  "descripcion" : "Youtube",
-  "tamanioKb" : 388.74751548944715,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "JULY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 203,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "monthValue" : 7,
-    "dayOfMonth" : 22
-  }
+  "nombre" : "app9g",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 939.0213806088042,
+  "fechaCreacion" : "20/06/2018"
 }, {
   "codUnico" : 10,
-  "nombre" : "app10c",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 202.86156140899988,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "JUNE",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 152,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "monthValue" : 6,
-    "dayOfMonth" : 1
-  }
+  "nombre" : "app10b",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 393.9654525307383,
+  "fechaCreacion" : "08/02/2015"
 }, {
   "codUnico" : 11,
-  "nombre" : "app11h",
+  "nombre" : "app11l",
   "descripcion" : "Classroom",
-  "tamanioKb" : 703.534597324305,
-  "fechaCreacion" : {
-    "year" : 2015,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 123,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 5,
-    "dayOfMonth" : 3
-  }
+  "tamanioKb" : 687.052691374905,
+  "fechaCreacion" : "03/05/2020"
 }, {
   "codUnico" : 12,
-  "nombre" : "app12c",
-  "descripcion" : "HBO España",
-  "tamanioKb" : 157.23121184018126,
-  "fechaCreacion" : {
-    "year" : 2015,
-    "month" : "OCTOBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 296,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 10,
-    "dayOfMonth" : 23
-  }
+  "nombre" : "app12l",
+  "descripcion" : "Recetario",
+  "tamanioKb" : 689.8420619491125,
+  "fechaCreacion" : "24/07/2019"
 }, {
   "codUnico" : 13,
-  "nombre" : "app13n",
-  "descripcion" : "HBO España",
-  "tamanioKb" : 151.51824270137783,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "JUNE",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 179,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "monthValue" : 6,
-    "dayOfMonth" : 28
-  }
+  "nombre" : "app13j",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 575.0776000695636,
+  "fechaCreacion" : "25/01/2011"
 }, {
   "codUnico" : 14,
-  "nombre" : "app14l",
+  "nombre" : "app14i",
   "descripcion" : "Amazon Prime Video",
-  "tamanioKb" : 746.1304820281405,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "DECEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 339,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true,
-    "monthValue" : 12,
-    "dayOfMonth" : 4
-  }
+  "tamanioKb" : 661.6757427647597,
+  "fechaCreacion" : "09/02/2020"
 }, {
   "codUnico" : 15,
-  "nombre" : "app15f",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 926.2456459161202,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 117,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 27
-  }
+  "nombre" : "app15p",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 303.74749352159,
+  "fechaCreacion" : "11/01/2017"
 }, {
   "codUnico" : 16,
-  "nombre" : "app16y",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 968.9776023529178,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 316,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 12
-  }
+  "nombre" : "app16d",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 118.05396273676955,
+  "fechaCreacion" : "25/04/2012"
 }, {
   "codUnico" : 17,
-  "nombre" : "app17x",
-  "descripcion" : "Recetario",
-  "tamanioKb" : 861.2707034771204,
-  "fechaCreacion" : {
-    "year" : 2018,
-    "month" : "MARCH",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 87,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "monthValue" : 3,
-    "dayOfMonth" : 28
-  }
+  "nombre" : "app17t",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 483.6710431654868,
+  "fechaCreacion" : "29/08/2013"
 }, {
   "codUnico" : 18,
-  "nombre" : "app18y",
-  "descripcion" : "Juego de snake",
-  "tamanioKb" : 531.5318761526189,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "JANUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 14,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 1,
-    "dayOfMonth" : 14
-  }
+  "nombre" : "app18f",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 655.3133035786983,
+  "fechaCreacion" : "18/03/2010"
 }, {
   "codUnico" : 19,
-  "nombre" : "app19t",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 308.374543558917,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 115,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 25
-  }
+  "nombre" : "app19s",
+  "descripcion" : "Recetario",
+  "tamanioKb" : 935.4567212005425,
+  "fechaCreacion" : "04/01/2018"
 }, {
   "codUnico" : 20,
-  "nombre" : "app20b",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 805.736858140028,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "SEPTEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 248,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "monthValue" : 9,
-    "dayOfMonth" : 5
-  }
+  "nombre" : "app20i",
+  "descripcion" : "Classroom",
+  "tamanioKb" : 179.00405453890676,
+  "fechaCreacion" : "25/12/2019"
 }, {
   "codUnico" : 21,
-  "nombre" : "app21w",
-  "descripcion" : "Youtube",
-  "tamanioKb" : 544.1955876283914,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "FEBRUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 58,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 2,
-    "dayOfMonth" : 27
-  }
+  "nombre" : "app21t",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 228.1793013975068,
+  "fechaCreacion" : "12/08/2010"
 }, {
   "codUnico" : 22,
-  "nombre" : "app22i",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 752.2253784678389,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 108,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true,
-    "monthValue" : 4,
-    "dayOfMonth" : 17
-  }
+  "nombre" : "app22b",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 551.3320622787805,
+  "fechaCreacion" : "02/09/2019"
 }, {
   "codUnico" : 23,
   "nombre" : "app23g",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 722.1217417140978,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "DECEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 361,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "monthValue" : 12,
-    "dayOfMonth" : 27
-  }
+  "descripcion" : "Recetario",
+  "tamanioKb" : 406.50268703323627,
+  "fechaCreacion" : "06/05/2015"
 }, {
   "codUnico" : 24,
-  "nombre" : "app24y",
-  "descripcion" : "Classroom",
-  "tamanioKb" : 959.9049259136128,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 109,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true,
-    "monthValue" : 4,
-    "dayOfMonth" : 18
-  }
+  "nombre" : "app24s",
+  "descripcion" : "Meet",
+  "tamanioKb" : 843.7402360739421,
+  "fechaCreacion" : "27/07/2018"
 }, {
   "codUnico" : 25,
-  "nombre" : "app25g",
-  "descripcion" : "HBO España",
-  "tamanioKb" : 611.3379195635257,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "JULY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 187,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "monthValue" : 7,
-    "dayOfMonth" : 5
-  }
+  "nombre" : "app25f",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 843.7320616477905,
+  "fechaCreacion" : "12/02/2010"
 }, {
   "codUnico" : 26,
-  "nombre" : "app26p",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 894.0334176484974,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 150,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true,
-    "monthValue" : 5,
-    "dayOfMonth" : 29
-  }
+  "nombre" : "app26d",
+  "descripcion" : "Recetario",
+  "tamanioKb" : 449.4370570273535,
+  "fechaCreacion" : "31/03/2014"
 }, {
   "codUnico" : 27,
   "nombre" : "app27u",
-  "descripcion" : "Recetario",
-  "tamanioKb" : 451.88936462595876,
-  "fechaCreacion" : {
-    "year" : 2021,
-    "month" : "OCTOBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 304,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 10,
-    "dayOfMonth" : 31
-  }
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 984.0779094359111,
+  "fechaCreacion" : "28/07/2014"
 }, {
   "codUnico" : 28,
   "nombre" : "app28n",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 969.5377958747121,
-  "fechaCreacion" : {
-    "year" : 2020,
-    "month" : "OCTOBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 293,
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true,
-    "monthValue" : 10,
-    "dayOfMonth" : 19
-  }
+  "descripcion" : "Netflix",
+  "tamanioKb" : 636.591784826977,
+  "fechaCreacion" : "02/05/2020"
 }, {
   "codUnico" : 29,
-  "nombre" : "app29k",
-  "descripcion" : "Meet",
-  "tamanioKb" : 893.1363203121832,
-  "fechaCreacion" : {
-    "year" : 2018,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 117,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 27
-  }
+  "nombre" : "app29x",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 276.0633762073967,
+  "fechaCreacion" : "25/01/2021"
 }, {
   "codUnico" : 30,
-  "nombre" : "app30y",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 663.1413887103325,
-  "fechaCreacion" : {
-    "year" : 2018,
-    "month" : "SEPTEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 252,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 9,
-    "dayOfMonth" : 9
-  }
+  "nombre" : "app30f",
+  "descripcion" : "Meet",
+  "tamanioKb" : 727.3355486369812,
+  "fechaCreacion" : "13/07/2018"
 }, {
   "codUnico" : 31,
-  "nombre" : "app31d",
-  "descripcion" : "Juego de snake",
-  "tamanioKb" : 651.3659787957006,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "SEPTEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 263,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 9,
-    "dayOfMonth" : 20
-  }
+  "nombre" : "app31f",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 1006.6063894456287,
+  "fechaCreacion" : "23/11/2019"
 }, {
   "codUnico" : 32,
-  "nombre" : "app32o",
-  "descripcion" : "Spotify",
-  "tamanioKb" : 302.2007461929039,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "DECEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 348,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : true,
-    "monthValue" : 12,
-    "dayOfMonth" : 13
-  }
+  "nombre" : "app32d",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 762.4747968795057,
+  "fechaCreacion" : "05/12/2014"
 }, {
   "codUnico" : 33,
-  "nombre" : "app33e",
-  "descripcion" : "Meet",
-  "tamanioKb" : 580.7347231952936,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 326,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 22
-  }
+  "nombre" : "app33q",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 334.320058139111,
+  "fechaCreacion" : "24/01/2015"
 }, {
   "codUnico" : 34,
-  "nombre" : "app34t",
-  "descripcion" : "Spotify",
-  "tamanioKb" : 176.8926851906818,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 119,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 29
-  }
+  "nombre" : "app34s",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 574.3111201594792,
+  "fechaCreacion" : "08/03/2021"
 }, {
   "codUnico" : 35,
-  "nombre" : "app35r",
-  "descripcion" : "Spotify",
-  "tamanioKb" : 609.1469856817354,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "AUGUST",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 224,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "monthValue" : 8,
-    "dayOfMonth" : 12
-  }
+  "nombre" : "app35i",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 964.8320204592626,
+  "fechaCreacion" : "19/12/2020"
 }, {
   "codUnico" : 36,
-  "nombre" : "app36h",
-  "descripcion" : "Spotify",
-  "tamanioKb" : 158.30577169208289,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "SEPTEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 247,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "monthValue" : 9,
-    "dayOfMonth" : 4
-  }
+  "nombre" : "app36w",
+  "descripcion" : "Meet",
+  "tamanioKb" : 750.9079714830816,
+  "fechaCreacion" : "08/07/2014"
 }, {
   "codUnico" : 37,
-  "nombre" : "app37w",
-  "descripcion" : "HBO España",
-  "tamanioKb" : 199.3521254597016,
-  "fechaCreacion" : {
-    "year" : 2014,
-    "month" : "JANUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 1,
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "monthValue" : 1,
-    "dayOfMonth" : 1
-  }
+  "nombre" : "app37m",
+  "descripcion" : "Juego de snake",
+  "tamanioKb" : 293.8568521494453,
+  "fechaCreacion" : "02/07/2018"
 }, {
   "codUnico" : 38,
-  "nombre" : "app38r",
+  "nombre" : "app38k",
   "descripcion" : "Spotify",
-  "tamanioKb" : 901.7456329605695,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "JULY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 199,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "monthValue" : 7,
-    "dayOfMonth" : 17
-  }
+  "tamanioKb" : 953.1956813177765,
+  "fechaCreacion" : "11/05/2018"
 }, {
   "codUnico" : 39,
-  "nombre" : "app39e",
-  "descripcion" : "Youtube",
-  "tamanioKb" : 658.4927741202537,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 125,
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "monthValue" : 5,
-    "dayOfMonth" : 5
-  }
+  "nombre" : "app39m",
+  "descripcion" : "Recetario",
+  "tamanioKb" : 909.6861067115954,
+  "fechaCreacion" : "08/08/2015"
 }, {
   "codUnico" : 40,
-  "nombre" : "app40z",
-  "descripcion" : "Juego de snake",
-  "tamanioKb" : 483.6090070916945,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "FEBRUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 55,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 2,
-    "dayOfMonth" : 24
-  }
+  "nombre" : "app40x",
+  "descripcion" : "Monopoly",
+  "tamanioKb" : 101.18977143754765,
+  "fechaCreacion" : "23/07/2021"
 }, {
   "codUnico" : 41,
-  "nombre" : "app41a",
-  "descripcion" : "Juego de snake",
-  "tamanioKb" : 428.92482475977874,
-  "fechaCreacion" : {
-    "year" : 2012,
-    "month" : "JULY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 192,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "monthValue" : 7,
-    "dayOfMonth" : 10
-  }
+  "nombre" : "app41q",
+  "descripcion" : "Classroom",
+  "tamanioKb" : 890.7852357942132,
+  "fechaCreacion" : "17/01/2021"
 }, {
   "codUnico" : 42,
-  "nombre" : "app42s",
-  "descripcion" : "Monopoly",
-  "tamanioKb" : 627.5653699508916,
-  "fechaCreacion" : {
-    "year" : 2016,
-    "month" : "JANUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 16,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true,
-    "monthValue" : 1,
-    "dayOfMonth" : 16
-  }
+  "nombre" : "app42h",
+  "descripcion" : "HBO España",
+  "tamanioKb" : 183.95508250630633,
+  "fechaCreacion" : "17/06/2017"
 }, {
   "codUnico" : 43,
-  "nombre" : "app43k",
-  "descripcion" : "Youtube",
-  "tamanioKb" : 216.64567799564372,
-  "fechaCreacion" : {
-    "year" : 2010,
-    "month" : "AUGUST",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 217,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 8,
-    "dayOfMonth" : 5
-  }
+  "nombre" : "app43a",
+  "descripcion" : "Netflix",
+  "tamanioKb" : 936.970445480737,
+  "fechaCreacion" : "12/08/2011"
 }, {
   "codUnico" : 44,
-  "nombre" : "app44w",
-  "descripcion" : "Meet",
-  "tamanioKb" : 902.0566266301336,
-  "fechaCreacion" : {
-    "year" : 2018,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 104,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 14
-  }
+  "nombre" : "app44k",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 301.0342696708012,
+  "fechaCreacion" : "22/05/2012"
 }, {
   "codUnico" : 45,
-  "nombre" : "app45p",
+  "nombre" : "app45q",
   "descripcion" : "Youtube",
-  "tamanioKb" : 875.9499455613404,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "FEBRUARY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 51,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 2,
-    "dayOfMonth" : 20
-  }
+  "tamanioKb" : 843.9071132771624,
+  "fechaCreacion" : "30/10/2010"
 }, {
   "codUnico" : 46,
-  "nombre" : "app46d",
-  "descripcion" : "Juego de snake",
-  "tamanioKb" : 331.6352250540925,
-  "fechaCreacion" : {
-    "year" : 2017,
-    "month" : "SEPTEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 260,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 9,
-    "dayOfMonth" : 17
-  }
+  "nombre" : "app46p",
+  "descripcion" : "Amazon Prime Video",
+  "tamanioKb" : 951.5663125521108,
+  "fechaCreacion" : "29/06/2012"
 }, {
   "codUnico" : 47,
-  "nombre" : "app47v",
-  "descripcion" : "Netflix",
-  "tamanioKb" : 514.4054848743428,
-  "fechaCreacion" : {
-    "year" : 2021,
-    "month" : "APRIL",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 119,
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "monthValue" : 4,
-    "dayOfMonth" : 29
-  }
+  "nombre" : "app47n",
+  "descripcion" : "Classroom",
+  "tamanioKb" : 1001.9313760913859,
+  "fechaCreacion" : "09/07/2018"
 }, {
   "codUnico" : 48,
-  "nombre" : "app48d",
-  "descripcion" : "Classroom",
-  "tamanioKb" : 922.6776534299169,
-  "fechaCreacion" : {
-    "year" : 2013,
-    "month" : "MAY",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 132,
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "monthValue" : 5,
-    "dayOfMonth" : 12
-  }
+  "nombre" : "app48u",
+  "descripcion" : "Spotify",
+  "tamanioKb" : 995.7729115603873,
+  "fechaCreacion" : "08/02/2016"
 }, {
   "codUnico" : 49,
-  "nombre" : "app49p",
-  "descripcion" : "HBO España",
-  "tamanioKb" : 434.5762045478795,
-  "fechaCreacion" : {
-    "year" : 2019,
-    "month" : "NOVEMBER",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 327,
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "monthValue" : 11,
-    "dayOfMonth" : 23
-  }
+  "nombre" : "app49a",
+  "descripcion" : "Meet",
+  "tamanioKb" : 470.77586503638213,
+  "fechaCreacion" : "21/06/2014"
 }, {
   "codUnico" : 50,
-  "nombre" : "app50j",
-  "descripcion" : "Youtube",
-  "tamanioKb" : 859.194088658155,
-  "fechaCreacion" : {
-    "year" : 2011,
-    "month" : "MARCH",
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "era" : "CE",
-    "dayOfYear" : 88,
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "monthValue" : 3,
-    "dayOfMonth" : 29
-  }
+  "nombre" : "app50c",
+  "descripcion" : "Meet",
+  "tamanioKb" : 730.7572166221703,
+  "fechaCreacion" : "17/07/2017"
 } ]
